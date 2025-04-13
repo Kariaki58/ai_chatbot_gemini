@@ -1,5 +1,11 @@
 {
+  "type": "module",
+  "name": "genai-quickstart",
   "dependencies": {
-    "@google/genai": "^0.8.0"
+    "@google/genai": "^0.8.0",
+    "dotenv": "^16.5.0"
+  },
+  "devDependencies": {
+    "dotenv-webpack": "^8.1.0"
   }
 }
